@@ -1,0 +1,8 @@
+---
+name: Usage
+route: /usage
+---
+
+## Responsive
+
+You can create a responsive grid system by using a single set of `Row` and `Col` grid assembly, all of the columns (Col) must be placed in `Row`.
